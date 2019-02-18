@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 from local
+=======
+I am working remotely
+>>>>>>> 6399f8ab80a4715a4f9281c8e5418a9f7595e348
